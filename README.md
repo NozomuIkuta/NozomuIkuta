@@ -6,10 +6,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NozomuIkuta&theme=github_dark&hide_title=true&layout=compact&card_width=445&hide_border=true&border_radius=false" alt="Nozomu Ikuta's Most Used Languages" width="100%">
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=NozomuIkuta&theme=github_dark&hide_title=true&hide_border=true&border_radius=false" alt="Nozomu Ikuta's Wakatime Stats" width="100%">
-</a>
-
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=NozomuIkuta&theme=github-dark&hide_border=true" alt="Nozomu Ikuta's Contribution Graph" width="100%">
 </a>
