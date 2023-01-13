@@ -7,5 +7,5 @@
 </a>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=NozomuIkuta&theme=github-dark&hide_border=true" alt="Nozomu Ikuta's Contribution Graph" width="100%">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=NozomuIkuta&theme=github-dark&hide_border=true" alt="Nozomu Ikuta's Contribution Graph" width="100%">
 </a>
